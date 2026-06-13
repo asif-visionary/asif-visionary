@@ -16,8 +16,6 @@ Cyber Security Enthusiast | Python Developer | Security Tool Builder
 
 🐍 Python Developer
 
-🛡️ Interested in Penetration Testing & Vulnerability Assessment
-
 🌱 Currently Learning Flask, Security Automation and Networking
 
 💡 Building practical cybersecurity projects
