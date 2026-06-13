@@ -86,10 +86,10 @@ AI-powered identity verification and anti-spoofing solution.
 
 ---
 
-## 🏆 GitHub Trophies
+## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=asif-visionary&theme=tokyonight"/>
+  <img src="https://raw.githubusercontent.com/asif-visionary/asif-visionary/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
