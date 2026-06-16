@@ -63,9 +63,6 @@ Advanced password analyzer with entropy calculation and breach detection.
 ### 🤖 AI Powered Vulnerability Assessment Platform
 Flask-based vulnerability assessment dashboard with reporting.
 
-### 🪪 TrueShield AI
-AI-powered identity verification and anti-spoofing solution.
-
 ---
 
 ## 📊 GitHub Stats
