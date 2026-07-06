@@ -68,15 +68,15 @@ Flask-based vulnerability assessment dashboard with reporting.
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=asif-visionary&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=asif-visionary&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=asif-visionary&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asif-visionary&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asif-visionary&layout=compact&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=asif-visionary&theme=tokyonight"/>
 </p>
 
 ---
