@@ -81,13 +81,24 @@ Flask-based vulnerability assessment dashboard with reporting.
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asif-visionary/asif-visionary/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asif-visionary/asif-visionary/output/github-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/asif-visionary/asif-visionary/output/github-snake.svg">
-  </picture>
-</p>
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/asif-visionary/asif-visionary/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/asif-visionary/asif-visionary/output/github-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/asif-visionary/asif-visionary/output/github-snake.svg"
+    width="100%"
+  />
+</picture>
+
 
 ---
 
